@@ -1,0 +1,49 @@
+,system,cell_type_family,cell_type,num_cells,mass_g,num_share_sys,mass_share_sys,MNI_sys,rank
+16,Blood,,Neutrophils,22054419658.0,7.0,0.594,0.631,0.036,top3
+20,Blood,,Monocytes,2985576380.0,1.2,0.08,0.108,0.028,top3
+21,Blood,,Dendritic cells,98839428.0,0.2,0.003,0.018,0.015,top3
+11,Blood,Lymphocyte,T cells,7881498532.0,1.7,0.212,0.153,-0.059,bottom3
+15,Blood,Granulocyte,Mast cells,,,,,,bottom3
+19,Blood,Non-granulocytes Myeloid,Macrophages,,,,,,bottom3
+8,Bone Marrow,Non-granulocytes Myeloid,Macrophages,48614213938.0,135.7,0.066,0.383,0.317,top3
+2,Bone Marrow,,Plasma cells,2246322487.0,3.5,0.003,0.01,0.007,top3
+4,Bone Marrow,Granulocyte,Mast cells,864788278.0,0.9,0.001,0.003,0.001,top3
+0,Bone Marrow,Lymphocyte,T cells,21495635714.0,4.6,0.029,0.013,-0.016,bottom3
+5,Bone Marrow,,Neutrophils,591797536746.0,187.0,0.804,0.528,-0.276,bottom3
+10,Bone Marrow,,Dendritic cells,,,,,,bottom3
+46,GI,,Plasma cells,12185511967.0,18.7,0.23,0.469,0.238,top3
+48,GI,Granulocyte,Mast cells,8961542195.0,9.7,0.169,0.243,0.074,top3
+52,GI,Non-granulocytes Myeloid,Macrophages,4592287031.0,5.6,0.087,0.14,0.054,top3
+51,GI,,Basophils,,,,,,bottom3
+53,GI,,Monocytes,,,,,,bottom3
+54,GI,,Dendritic cells,,,,,,bottom3
+41,Liver,Non-granulocytes Myeloid,Macrophages,35958271938.0,108.0,0.702,0.97,0.268,top3
+34,Liver,,B cells,1767553034.0,0.4,0.035,0.004,-0.031,top3
+36,Liver,,NK cells,5547985483.0,1.2,0.108,0.011,-0.098,top3
+40,Liver,,Basophils,,,,,,bottom3
+42,Liver,,Monocytes,,,,,,bottom3
+43,Liver,,Dendritic cells,,,,,,bottom3
+63,Lungs,Non-granulocytes Myeloid,Macrophages,28627410220.0,87.8,0.404,0.745,0.341,top3
+57,Lungs,,Plasma cells,1379184921.0,2.1,0.019,0.018,-0.002,top3
+58,Lungs,,NK cells,722456554.0,0.2,0.01,0.002,-0.008,top3
+62,Lungs,,Basophils,,,,,,bottom3
+64,Lungs,,Monocytes,,,,,,bottom3
+65,Lungs,,Dendritic cells,,,,,,bottom3
+30,Lymphatic System,Non-granulocytes Myeloid,Macrophages,24735254834.0,91.4,0.035,0.283,0.248,top3
+32,Lymphatic System,,Dendritic cells,37795348517.0,84.4,0.053,0.261,0.208,top3
+24,Lymphatic System,,Plasma cells,1230307558.0,1.9,0.002,0.006,0.004,top3
+22,Lymphatic System,Lymphocyte,T cells,362911330750.0,77.4,0.507,0.24,-0.267,bottom3
+26,Lymphatic System,Granulocyte,Mast cells,,,,,,bottom3
+29,Lymphatic System,,Basophils,,,,,,bottom3
+85,Others,Non-granulocytes Myeloid,Macrophages,47510070726.0,108.6,0.517,0.754,0.236,top3
+79,Others,,Plasma cells,589945721.0,0.9,0.006,0.006,-0.0,top3
+82,Others,,Neutrophils,27983827.0,0.0,0.0,0.0,-0.0,top3
+84,Others,,Basophils,,,,,,bottom3
+86,Others,,Monocytes,,,,,,bottom3
+87,Others,,Dendritic cells,,,,,,bottom3
+76,Skin,,Dendritic cells,9612880292.0,21.5,0.119,0.281,0.163,top3
+74,Skin,Non-granulocytes Myeloid,Macrophages,12006803969.0,17.4,0.148,0.228,0.079,top3
+70,Skin,Granulocyte,Mast cells,28367965860.0,30.6,0.35,0.401,0.05,top3
+72,Skin,,Eosinophils,,,,,,bottom3
+73,Skin,,Basophils,,,,,,bottom3
+75,Skin,,Monocytes,,,,,,bottom3
