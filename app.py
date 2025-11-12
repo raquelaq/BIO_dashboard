@@ -35,6 +35,7 @@ Se unificaron la tablas **número de células por tipo y sistema** y **masa en g
 por cada tejido, el total de células y la masa total inmunitaria.
 
 A parti de ahí, se define un índice para ver el desbalance entre ambas cosas:
+
 MNI = participación en masa − participación en número (Índice de Desbalance Masa–Número)
 
 Así, se compara la proporción de masa inmunitaria de un sistema con su proporción de número de células inmunitarias en el cuerpo humano
