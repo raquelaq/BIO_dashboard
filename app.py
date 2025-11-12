@@ -30,6 +30,16 @@ col1.metric("🧮 Total de células inmunes", f"{df_cell['num_cells'].sum():.2e}
 col2.metric("⚖️ Masa inmunitaria total (g)", f"{df_cell['mass_g'].sum():.1f}")
 col3.metric("🔬 Sistemas analizados", df_system['system'].nunique())
 
+st.markdown("""
+Se unificaron la tablas **número de células por tipo y sistema** y **masa en gramos por tipo y sistema** y se obtuvieron,
+por cada tejido, el total de células y la masa total inmunitaria.
+
+A parti de ahí, se define un índice para ver el desbalance entre ambas cosas:
+MNI = participación en masa − participación en número (Índice de Desbalance Masa–Número)
+
+Así, se compara la proporción de masa inmunitaria de un sistema con su proporción de número de células inmunitarias en el cuerpo humano
+""")
+
 st.divider()
 
 # PESTAÑAS PRINCIPALES
