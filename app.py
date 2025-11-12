@@ -55,6 +55,9 @@ tab1, tab2, tab3, tab4 = st.tabs([
 with tab1:
     st.header("Índice de Desbalance Masa–Número (MNI) por sistema")
 
+    st.markdown("Si un tejido tiene MNI positivo, significa que aporta más masa de lo que su número sugiere: es ‘pesado "
+                "pero escaso’. Si sale MNI negativo, entonces aporta mucho número pero poca masa: ‘numeroso pero ligero")
+
     mni_range = st.slider(
         "Filtra sistemas por rango de MNI:",
         min_value=float(df_system["MNI"].min()),
